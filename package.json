@@ -1,6 +1,6 @@
 {
   "name": "@ctek/ruta",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A friendly router written for Web Components",
   "main": "dist/ruta.js",
   "scripts": {
