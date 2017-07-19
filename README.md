@@ -1,4 +1,6 @@
-# Ruth your friendly router
+# Ruth
+
+A friendly router written for Web Components
 
 ## Basic usage
 ```
