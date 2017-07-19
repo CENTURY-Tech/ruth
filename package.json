@@ -1,0 +1,20 @@
+{
+  "name": "@ctek/ruta",
+  "version": "0.0.0",
+  "description": "A friendly router written for Web Components",
+  "main": "dist/ruta.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CENTURY-Tech/ruth.git"
+  },
+  "author": "Century Tech",
+  "license": "LICENSE",
+  "bugs": {
+    "url": "https://github.com/CENTURY-Tech/ruth/issues"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}

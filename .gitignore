@@ -1,0 +1,13 @@
+# Ignore all IDE generated paths
+.idea/
+.vscode/
+
+# Ignore all Node.js, NPM, and Bower related paths
+bower_components/
+node_modules/
+npm-debug.log
+package-lock.json
+
+# Ignore distribution files
+dist
+docs
