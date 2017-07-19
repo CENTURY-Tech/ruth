@@ -3,7 +3,7 @@
 A friendly router written for Web Components
 
 ## Basic usage
-```
+```html
 <template is="ruth-redirect" to-path="/my-old-path" from-path="/my-new-path"></template>
 
 <template is="ruth-route" path="my-courses">
