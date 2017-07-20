@@ -2,6 +2,8 @@
 
 A friendly router written for Web Components
 
+[![npm](https://img.shields.io/npm/v/@ctek/ruth.svg?style=flat-square)](https://www.npmjs.com/package/@ctek/ruth) [![Bower](https://img.shields.io/bower/v/ruth.svg?style=flat-square)](https://github.com/CENTURY-Tech/ruth)
+
 ## Basic usage
 ```html
 <template is="ruth-redirect" to-path="/my-old-path" from-path="/my-new-path"></template>
